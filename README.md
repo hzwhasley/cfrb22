@@ -17,11 +17,11 @@
 </div>
   
  
-<div> 
+
   
   ![Snake animation](https://github.com/cfrb22/cfrb22/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
  
  
 
